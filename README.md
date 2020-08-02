@@ -12,7 +12,7 @@ php artisan key:generate
 composer require barryvdh/laravel-debugbar --dev
 ```
 
-# Laravel UI - If you needed 
+# Laravel UI - If you needed
 ```bash
 composer require laravel/ui
 php artisan ui react
@@ -23,7 +23,7 @@ npm run dev
 npm run development -- --watch
 
 ```
-# Get Permission 
+# Get Permission
 ```bash
 sudo chown -R www-data:www-data .
 sudo chmod -R 777 .
@@ -34,7 +34,7 @@ sudo chmod -R 777 .
 sudo -i subl /etc/hosts
 
 ```
-*. add new line in this file 
+*. add new line in this file
 
 ```bash
 127.0.0.1 myapp.loc
@@ -73,4 +73,4 @@ sudo systemctl restart apache2
 
 ```
 now successfully setup for laravel installation
-thanks with regards. 
+good luck.  
