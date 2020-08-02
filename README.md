@@ -21,6 +21,10 @@ php artisan ui react --auth
 npm install
 npm run dev
 npm run development -- --watch
+
+```
+# Get Permission 
+```bash
 sudo chown -R www-data:www-data .
 sudo chmod -R 777 .
 ```
